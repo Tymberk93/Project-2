@@ -1,5 +1,5 @@
 # Project-2
-## ETL w/ Brielle.
+## ETL w/ Brielle Bernardy!
 
 ### Option 1: Use Python dictionary methods.
 
